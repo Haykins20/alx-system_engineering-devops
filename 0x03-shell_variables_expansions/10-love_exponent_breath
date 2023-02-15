@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((BREATH**LOVE))
+exorpt $(($BREATH**LOVE))
